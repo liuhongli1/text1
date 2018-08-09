@@ -19,5 +19,3 @@ for item in words.split():
         # print(lisst_X)
         print('\n'.join(lisst_X))
         sleep(0.1)
-    # print('\n'.join(letterlist))
-    # sleep(0.5)
